@@ -2,6 +2,7 @@
 title = Vander Bot
 package.name = vanderbot
 package.domain = org.vander
+source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
 requirements = python3,flet,telethon
